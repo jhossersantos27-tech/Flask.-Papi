@@ -1,0 +1,24 @@
+.tarjetas{
+  display: flex;
+  justify-content: space-around;
+  margin: 50px; 
+}
+
+
+.formulario{
+  
+  width: 40%;
+  border: 1px solid gold;
+  border-radius: 5% 0% 5% 0%;
+  margin: 50px;
+  padding: 20px;
+  border-radius: 5% 0% 5% 0%;
+  background-image: linear-gradient(90deg,rgb(12, 55, 196),rgb(240, 113, 10));
+}
+
+
+.contenedor{
+
+  display:flex;
+  justify-content: center;
+}
